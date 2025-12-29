@@ -7,5 +7,7 @@ public class Lab0037_instance_of_operators {
         System.out.println(s1 instanceof String);
 
 
+
+
     }
 }

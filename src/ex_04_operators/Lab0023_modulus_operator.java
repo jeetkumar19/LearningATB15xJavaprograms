@@ -5,6 +5,7 @@ public class Lab0023_modulus_operator {
         int a=20;
         int b = 29;
         System.out.println(a%b);  // the value you get as reminder ,
-        // when a is divided by another no is called modulous operator
+        // when a is divided by another no is called modulous operator,
+        // and the main factor is the reminder.
          }
 }
